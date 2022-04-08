@@ -23,7 +23,7 @@ def equalparse(line):
 
 # Open file 
 cnt = 0 
-f = open("OUTPUT_MARS_1.DAT", "r")
+f = open("OUTPUT_MARS.DAT", "r")
 data = ""
 features = [str(i) for i in range(0, 14)]
 

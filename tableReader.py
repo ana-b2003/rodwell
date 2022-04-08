@@ -26,7 +26,7 @@ def dataparse(line):
 
 # Open file
 cnt = 0 
-f = open("OUTPUT_MARS_1.DAT", "r")
+f = open("OUTPUT_MARS.DAT", "r")
 for _ in range(15): # eliminate beginning text 
     __ = f.readline()
     
