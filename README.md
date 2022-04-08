@@ -19,4 +19,27 @@ if you want to run the code again you have to either delete or rename the output
 if you want to exit the compiler simply type "exit" in the terminal
 
 # Graphing output file 
+**YOU MUST HAVE PYTHON3 INSTALLED WITH NUMPY, PANDAS, AND MATPLOTLIB** 
 
+1. Open terminal 
+2. type the following commands 
+3. `cd Desktop/`
+4. `cd rodwell/`
+5. `python3 nontableReader.py` This will graph the non table data 
+6. `python3 tableReader.py`  This will graph all the table data
+
+## nontableReader code legend 
+  0 - hours
+  1 - TOTAL ENERGY INPUT BTU
+  2 - SEASONAL ENERGY INPUT BTU
+  3 - SEASONAL ENERGY INPUT GAL FUEL
+  4 - SEASONAL ENERGY RATE BTU/HR
+  5 - TOTAL ENERGY INPUT GAL FUEL
+  6 - AVERAGE LB. WATER PER LB. FUEL
+  7 - SEASONAL LB. WATER PER LB. FUEL
+  8 - ENERGY FROM AIR TO ICE BTU
+  9 - SEASONAL ENERGY LOSS, AIR TO ICE BTU
+  10 - TOTAL WATER WITHDRAWN GAL
+  11 - SEASONAL WATER WITHDRAWN GAL
+  12 - TOTAL WATER LOSS GAL
+  13 - SEASONAL WATER LOSS GAL
