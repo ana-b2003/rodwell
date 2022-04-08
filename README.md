@@ -1,9 +1,8 @@
 # Rodwell Graphing Code
 Github repo for running and graphing the Rodwell simulation. 
 
-# Instructions 
-
-1. Download the Rodwell Code for Mac and the Sample Rodwell Code Input files, put them in your desktop
+# Instructions for mac
+1. Download github code to Desktop, also enter the download folder called `rodwell`
 2. Open the Rodwell Code and near the top of the code you should see this line: `OPEN(unit=9,FILE="/Users/anabojinov/Desktop/Input_20kW_68deg_10Gal.txt")` change the bolded section so that the file directs to your directory (to find this, you can right click on the file in your finder and click "Get Info," you should then be able to see what name it's under, you might also need to change the input.txt file name to match the name of your input file
 3. SAVE the code
 4. Open your terminal, you can do this by doing command+space and then searching for "terminal"
