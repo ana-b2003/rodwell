@@ -1,8 +1,0 @@
-Download files to the Desktop (.f and input file) 
-
-gfortran mac_correct_rodwell.f -o a.out  -ffree-line-length-512 -Wall
-
-./a.out
-
-
-Output file is in OUTPUT_MARS.DAT
