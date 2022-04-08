@@ -3,7 +3,7 @@ Github repo for running and graphing the Rodwell simulation.
 
 # Instructions for mac
 1. Download github code to Desktop, also enter the download folder called `rodwell`  
-	a. You can download by downloading the zip file 
+	a. You can download by downloading the zip file  
 	b. You can also download through the terminal by typing the following command `git clone https://github.com/ana-b2003/rodwell.git`  
 2. Open the Rodwell Code and near the top of the code you should see this line: `OPEN(unit=9,FILE="/Users/anabojinov/Desktop/Input_20kW_68deg_10Gal.txt")` change the bolded section so that the file directs to your directory (to find this, you can right click on the file in your finder and click "Get Info," you should then be able to see what name it's under, you might also need to change the input.txt file name to match the name of your input file
 3. SAVE the code
